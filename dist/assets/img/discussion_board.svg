@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="485px" height="412px" viewBox="0 0 485 412" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="485" height="412" rx="10"></rect>
+        <linearGradient x1="21.1335934%" y1="8.11271661%" x2="109.726602%" y2="117.075504%" id="linearGradient-3">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9C061D" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Our-Views" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2" transform="translate(-222.000000, -223.000000)">
+            <g id="Group-2" transform="translate(222.000000, 223.000000)">
+                <g id="Oval">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#2D2D2D" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <circle fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.600000024" mask="url(#mask-2)" cx="411" cy="317" r="202"></circle>
+                    <circle id="Oval-Copy" fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.600000024" mask="url(#mask-2)" cx="243" cy="412" r="126"></circle>
+                </g>
+                <text id="DISCUSSION-BOARD" font-family="Optima-Bold, Optima" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="135" y="190">DISCUSSION </tspan>
+                    <tspan x="180" y="233">BOARD</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

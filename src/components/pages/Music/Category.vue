@@ -39,6 +39,8 @@
 			return {
 				details: null,
 				recent: null,
+				isLoading: true,
+				fullPage: true
 			};
 			},
 			components: {Header, Loading},

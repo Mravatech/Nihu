@@ -156,7 +156,9 @@
 		data: function () {
 			return {
                 details: null,
-                recent: null,
+				recent: null,
+				isLoading: true,
+				fullPage: true
 			};
 		},
 		components: {Header, Loading},

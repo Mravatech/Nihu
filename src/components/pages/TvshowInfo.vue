@@ -111,7 +111,9 @@ export default {
 	data: function () {
         return {
             categories: null,
-            details: [],
+			details: [],
+			isLoading: true,
+				fullPage: true
         };
     },
     components: {Header, Loading},

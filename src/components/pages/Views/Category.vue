@@ -62,6 +62,8 @@
 			return {
 				data: null,
 				recent: null,
+				isLoading: true,
+				fullPage: true
 			};
 		},
 		components: {Header, Loading},

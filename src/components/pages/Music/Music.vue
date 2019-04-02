@@ -49,6 +49,8 @@
 			return {
 				categories: null,
 				recent: null,
+				isLoading: true,
+				fullPage: true
 			};
 		},
 		components: {Header, Loading},

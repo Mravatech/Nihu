@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465px" height="412px" viewBox="0 0 465 412" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="465" height="412" rx="10"></rect>
+        <linearGradient x1="1.44424438%" y1="0%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#17EAD9" offset="0%"></stop>
+            <stop stop-color="#6078EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-4">
+            <stop stop-color="#002092" offset="0%"></stop>
+            <stop stop-color="#1AB9C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Our-Views" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2" transform="translate(-726.000000, -223.000000)">
+            <g id="Group" transform="translate(726.000000, 223.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-Copy-5" fill="#2D2D2D" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <circle id="Oval" fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.600000024" mask="url(#mask-2)" cx="363" cy="281" r="202"></circle>
+                <circle id="Oval-Copy" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.600000024" mask="url(#mask-2)" cx="195" cy="376" r="126"></circle>
+                <text id="CULTURE" mask="url(#mask-2)" font-family="Optima-Bold, Optima" font-size="36" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="153" y="218">CULTURE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
